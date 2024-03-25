@@ -1,0 +1,8 @@
+spring:
+  jpa:
+    defer-datasource-initialization: true
+  application:
+    name: techtest
+  h2:
+    console:
+      enabled: true

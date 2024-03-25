@@ -1,0 +1,1 @@
+INSERT INTO products(id, name, sku, short_description, description, price) VALUES (1, 'Test 1', 'TST0001', 'The best product you can find', 'Somewhat longer reasoning why this is the best product', 99);
